@@ -1,0 +1,301 @@
+age,gender,income,kids,ownHome,subscribe,Segment
+47 years,Male,49482.8104378022,2.0,ownNo,subNo,Suburb mix
+31 years,Male,35546.2883001383,1.0,ownYes,subNo,Suburb mix
+43 years,Male,44169.1863767717,0.0,ownYes,subNo,Suburb mix
+37 years,Female,81041.986385344,1.0,ownNo,subNo,Suburb mix
+41 years,Female,79353.0144428184,3.0,ownYes,subNo,Suburb mix
+43 years,Male,58143.3633220434,4.0,ownYes,subNo,Suburb mix
+38 years,Male,19282.2306219271,3.0,ownNo,subNo,Suburb mix
+28 years,Male,47245.2384700995,0.0,ownNo,subNo,Suburb mix
+44 years,Female,48332.519771933,1.0,ownNo,subNo,Suburb mix
+35 years,Female,52567.8902576842,0.0,Missing,subNo,Suburb mix
+48 years,Male,47917.5632358862,0.0,ownYes,subNo,Suburb mix
+38 years,Female,65767.4782922541,0.0,ownNo,subNo,Suburb mix
+33 years,Female,69337.6563043218,2.0,ownNo,subNo,Suburb mix
+43 years,Male,57200.1456411947,3.0,ownYes,subNo,Suburb mix
+39 years,Male,47099.7735756005,1.0,ownYes,subNo,Suburb mix
+42 years,Male,57036.8373301389,3.0,ownYes,subNo,Suburb mix
+42 years,Female,53127.0588275019,0.0,ownYes,subNo,Suburb mix
+44 years,Female,41254.8042913081,0.0,ownYes,subNo,Suburb mix
+38 years,Female,63528.4749496192,1.0,Missing,subNo,Suburb mix
+32 years,Female,52649.5371836263,2.0,ownYes,subYes,Suburb mix
+48 years,Missing,48197.8083458865,1.0,ownYes,subNo,Suburb mix
+37 years,Female,46163.3833188113,6.0,ownYes,subNo,Suburb mix
+3 years,Male,44151.930888579,2.0,ownNo,subNo,Suburb mix
+38 years,Female,56128.0088360211,2.0,ownYes,subNo,Suburb mix
+33 years,Female,62519.8907870126,4.0,ownYes,subNo,Suburb mix
+4 years,Female,51195.9683783201,1.0,ownYes,subNo,Missing
+27 years,Male,59440.8740719398,2.0,ownNo,subNo,Suburb mix
+45 years,Male,57362.5902217927,0.0,ownNo,subNo,Suburb mix
+35 years,Female,56112.1227832357,1.0,ownNo,subNo,Suburb mix
+4 years,Female,76488.6996715437,2.0,Missing,subNo,Suburb mix
+54 years,Male,65717.4307325919,,ownNo,subNo,Suburb mix
+43 years,Female,45175.3561767834,3.0,ownNo,subNo,Suburb mix
+37 years,Male,49943.1184214333,1.0,ownYes,subNo,Suburb mix
+37 years,Male,60040.7919043144,4.0,Missing,subNo,Suburb mix
+45 years,Female,65169.5771918402,0.0,ownNo,Missing,Suburb mix
+34 years,Male,46765.3105381949,1.0,ownNo,subNo,Suburb mix
+44 years,Male,61291.8146655005,3.0,ownYes,subNo,Suburb mix
+43 years,Female,49392.6699351557,1.0,ownNo,subNo,Suburb mix
+33 years,Female,30769.5507467553,2.0,ownYes,Missing,Suburb mix
+41 years,Female,59804.9327058118,2.0,ownYes,subNo,Suburb mix
+45 years,Male,52648.8944132029,2.0,ownYes,subNo,Suburb mix
+3 years,Female,54260.2017843883,3.0,ownNo,subNo,Suburb mix
+41 years,Male,49741.6173585756,2.0,ownYes,subNo,Suburb mix
+43 years,Male,71992.0984508587,1.0,ownNo,subNo,Suburb mix
+46 years,Missing,51918.2467853703,1.0,ownNo,subNo,Suburb mix
+34 years,Male,55377.8222323726,1.0,ownNo,subNo,Suburb mix
+39 years,Female,67502.1247838015,3.0,ownYes,subNo,Suburb mix
+4 years,Female,67932.8487708119,1.0,ownNo,subNo,Suburb mix
+Missing,Female,46714.9353023759,3.0,ownNo,subNo,Suburb mix
+41 years,Male,28270.1539695448,2.0,ownYes,subNo,Suburb mix
+37 years,Female,73304.4268406473,2.0,ownYes,subNo,Suburb mix
+4 years,Male,58037.9194357244,2.0,ownYes,subNo,Suburb mix
+34 years,Female,55847.4111270778,6.0,ownYes,subYes,Suburb mix
+43 years,Male,62190.8436469325,3.0,ownNo,Missing,Suburb mix
+42 years,Female,52813.2367183536,4.0,ownYes,subNo,Suburb mix
+45 years,Male,,4.0,ownNo,subNo,Suburb mix
+37 years,Male,54140.7913131625,1.0,ownYes,subNo,Suburb mix
+34 years,Male,60971.7595992783,2.0,ownNo,subNo,Suburb mix
+35 years,Male,27670.2186592407,1.0,ownNo,subNo,Suburb mix
+41 years,Male,59138.2370581565,3.0,ownNo,subNo,Suburb mix
+4 years,Female,46748.8664882033,1.0,ownNo,subNo,Suburb mix
+49 years,Male,57948.6189737732,1.0,ownNo,Missing,Suburb mix
+42 years,Female,40776.8761320867,3.0,ownNo,subNo,Suburb mix
+36 years,Female,49348.1788870206,1.0,Missing,subNo,Suburb mix
+46 years,Male,68636.4557921889,1.0,ownNo,subYes,Suburb mix
+4 years,Female,61386.5003583577,2.0,ownNo,subNo,Suburb mix
+39 years,Female,39588.2796997143,1.0,ownNo,subNo,Suburb mix
+33 years,Female,72675.4162314298,3.0,ownYes,subNo,Suburb mix
+32 years,Female,56246.7084053802,2.0,ownNo,subNo,Suburb mix
+43 years,Male,,1.0,ownNo,subNo,Suburb mix
+36 years,Female,53428.0641047553,1.0,ownNo,Missing,Suburb mix
+4 years,Female,70379.2582248961,2.0,ownYes,subNo,Suburb mix
+49 years,Female,38400.5647952483,1.0,ownYes,subNo,Suburb mix
+42 years,Male,51412.5561886151,1.0,ownNo,subNo,Suburb mix
+33 years,Male,53166.7449308705,4.0,ownYes,subNo,Suburb mix
+33 years,Male,85290.5086947677,4.0,ownNo,subNo,Suburb mix
+44 years,Male,46079.0635448887,1.0,ownNo,subNo,Suburb mix
+39 years,Male,60008.6669346822,3.0,ownNo,subNo,Suburb mix
+42 years,Male,49674.7881555613,0.0,Missing,subNo,Suburb mix
+4 years,Male,49815.6707818194,1.0,ownYes,subNo,Suburb mix
+48 years,Female,79544.1969674582,1.0,ownYes,subNo,Suburb mix
+38 years,Female,52289.0547574023,3.0,ownNo,subNo,Suburb mix
+43 years,Female,66932.7264043687,1.0,ownYes,subNo,Suburb mix
+34 years,Male,49346.7007962596,2.0,ownYes,subYes,Missing
+36 years,Male,66274.9978292267,1.0,ownNo,subNo,Suburb mix
+36 years,Male,39442.7177107063,1.0,ownNo,subNo,Suburb mix
+45 years,Female,47002.8360596545,1.0,ownYes,subNo,Suburb mix
+44 years,Female,42339.1332268302,5.0,ownNo,subNo,Suburb mix
+42 years,Female,58871.4752626021,3.0,ownNo,subYes,Suburb mix
+4 years,Male,76184.6652543762,2.0,ownYes,subNo,Suburb mix
+45 years,Male,68937.1991235778,5.0,ownYes,subNo,Suburb mix
+48 years,Female,63683.9618691843,2.0,ownYes,subNo,Suburb mix
+4 years,Male,57134.9391540512,0.0,ownNo,subNo,Suburb mix
+41 years,Male,60770.5726089868,3.0,ownNo,subNo,Suburb mix
+45 years,Male,53416.8574877337,3.0,ownYes,subYes,Suburb mix
+41 years,Male,44890.704042027,5.0,ownYes,subNo,Suburb mix
+37 years,Female,58891.1509069091,2.0,ownYes,subNo,Suburb mix
+36 years,Female,57985.5501108693,1.0,ownNo,subNo,Suburb mix
+46 years,Male,56015.7432700149,3.0,Missing,subNo,Suburb mix
+43 years,Male,29257.5668187161,1.0,ownNo,subNo,Suburb mix
+25 years,Male,18457.8478804086,1.0,Missing,subYes,Urban hip
+26 years,Male,26487.8251690791,1.0,ownNo,subYes,Urban hip
+23 years,Male,11985.2491740731,1.0,ownNo,subNo,Urban hip
+21 years,Male,16646.478704297,3.0,ownNo,subNo,Urban hip
+23 years,Male,17784.5689109545,1.0,ownNo,subNo,Urban hip
+23 years,Male,23886.4666138707,1.0,ownNo,subNo,Urban hip
+23 years,Male,17510.2759578819,1.0,ownNo,subYes,Missing
+21 years,Male,18419.2504701454,1.0,ownYes,subYes,Urban hip
+22 years,Male,21107.3687370218,0.0,ownNo,subNo,Urban hip
+23 years,Male,25506.1915758617,2.0,ownNo,subNo,Urban hip
+23 years,Female,21698.819574712,3.0,ownNo,subNo,Urban hip
+24 years,Male,23843.5090047963,0.0,ownNo,subNo,Urban hip
+24 years,Male,15493.4029592113,,ownNo,subNo,Urban hip
+21 years,Male,22517.205882629,3.0,ownNo,subNo,Urban hip
+27 years,Male,25210.86816994,0.0,ownNo,subNo,Urban hip
+23 years,Male,17382.0136831105,4.0,ownNo,subNo,Missing
+24 years,Female,22760.1756217969,0.0,ownNo,subNo,Missing
+24 years,Female,18118.8647515897,1.0,ownYes,subNo,Urban hip
+25 years,Male,32191.1487823517,1.0,ownNo,subNo,Urban hip
+26 years,Male,,2.0,ownYes,subNo,Urban hip
+25 years,Female,12544.6837140052,1.0,ownNo,subYes,Urban hip
+23 years,Missing,22402.7339538771,0.0,ownYes,subNo,Urban hip
+27 years,Male,23996.5067354796,1.0,ownNo,subNo,Urban hip
+22 years,Female,,1.0,ownNo,subNo,Urban hip
+25 years,Male,22905.3596493458,2.0,ownYes,subNo,Urban hip
+24 years,Missing,22014.3735599167,0.0,ownNo,subNo,Urban hip
+24 years,Male,20297.1185794427,0.0,ownNo,subNo,Urban hip
+22 years,Male,27807.2395002086,2.0,ownNo,subYes,Urban hip
+23 years,Female,15910.5360411069,0.0,ownNo,subYes,Urban hip
+22 years,Female,20222.0214392999,2.0,ownYes,subYes,Urban hip
+24 years,Male,18106.8369383907,0.0,ownNo,subNo,Urban hip
+25 years,Female,22102.8352178234,2.0,ownNo,subNo,Urban hip
+26 years,Female,17366.8618025148,0.0,ownNo,subNo,Urban hip
+21 years,Female,27244.1731045436,1.0,ownNo,subNo,Urban hip
+28 years,Male,22179.1780862388,1.0,ownNo,subNo,Missing
+23 years,Male,33909.4969852548,3.0,ownNo,subNo,Urban hip
+25 years,Male,23326.4486386503,2.0,ownNo,subYes,Missing
+21 years,Female,17082.7435630979,2.0,ownNo,subNo,Urban hip
+28 years,Female,31284.8544972897,2.0,ownYes,subNo,Urban hip
+25 years,Male,17757.6681990845,1.0,ownNo,subNo,Urban hip
+25 years,Female,20125.7985630986,2.0,ownNo,subYes,Urban hip
+25 years,Female,23839.4836233174,0.0,ownNo,subNo,Urban hip
+22 years,Male,16341.0906071427,0.0,ownNo,subNo,Urban hip
+22 years,Male,24533.9309765169,2.0,ownYes,subNo,Urban hip
+25 years,Female,25841.2453101756,0.0,ownYes,subNo,Urban hip
+19 years,Female,18592.9616380783,0.0,ownNo,subNo,Urban hip
+26 years,Female,12406.0997338184,0.0,ownNo,subNo,Missing
+26 years,Male,28329.0209764062,1.0,ownNo,subNo,Urban hip
+23 years,Missing,27211.8266509716,0.0,ownNo,subNo,Urban hip
+25 years,Female,,0.0,ownYes,subNo,Urban hip
+56 years,Female,91509.2454497245,0.0,ownYes,subNo,Travelers
+64 years,Male,61052.0773745683,0.0,ownYes,subNo,Travelers
+46 years,Missing,-5183.35424255222,0.0,ownYes,subNo,Travelers
+57 years,Female,68364.6297612931,0.0,ownNo,subNo,Travelers
+68 years,Female,25772.2414123234,0.0,ownYes,subNo,Travelers
+67 years,Male,54060.5906223448,0.0,ownYes,subNo,Travelers
+66 years,Missing,66616.4021528072,0.0,ownYes,subNo,Travelers
+43 years,Male,51787.8842410346,0.0,ownNo,subNo,Travelers
+76 years,Female,23968.1071881143,0.0,Missing,subNo,Travelers
+61 years,Male,-693.998915225195,0.0,ownYes,subNo,Travelers
+52 years,Female,50531.7187004201,,ownYes,subNo,Travelers
+54 years,Female,85769.6372526928,0.0,ownYes,subNo,Travelers
+56 years,Male,75456.8034231858,0.0,ownYes,subNo,Travelers
+53 years,Male,72314.9975794691,,ownYes,subNo,Travelers
+51 years,Male,36907.6333074456,0.0,ownYes,subNo,Travelers
+66 years,Missing,46832.3648900042,0.0,ownYes,subNo,Travelers
+62 years,Male,94845.253077876,0.0,ownYes,subNo,Travelers
+46 years,Female,50337.3613140346,0.0,ownYes,subNo,Travelers
+57 years,Female,58287.2034544183,0.0,ownYes,subNo,Travelers
+5 years,Male,60738.5930349509,0.0,ownYes,subNo,Travelers
+65 years,Female,78231.3344771732,0.0,ownYes,subNo,Travelers
+49 years,Male,61153.431613519,0.0,ownNo,subYes,Travelers
+65 years,Male,45517.1450769463,0.0,ownNo,subYes,Travelers
+71 years,Male,48697.1456496712,0.0,ownNo,subNo,Travelers
+Missing,Male,39379.3518335787,0.0,ownYes,subNo,Travelers
+57 years,Male,47529.0856732098,0.0,ownYes,subNo,Missing
+51 years,Male,61453.2039807924,0.0,ownYes,subNo,Travelers
+62 years,Female,48371.3625593374,0.0,ownYes,subNo,Travelers
+62 years,Male,68895.3069998346,0.0,ownYes,subNo,Travelers
+Missing,Female,37797.9067792906,0.0,ownYes,subNo,Travelers
+55 years,Female,96508.8939156899,0.0,ownYes,subNo,Travelers
+56 years,Female,,0.0,ownYes,subNo,Travelers
+58 years,Missing,105537.821591503,0.0,ownYes,subNo,Travelers
+68 years,Male,104312.44501305,0.0,ownYes,subNo,Travelers
+51 years,Missing,48946.0733525383,0.0,ownYes,subYes,Travelers
+49 years,Female,59075.1193340183,0.0,ownNo,subNo,Travelers
+59 years,Female,60168.2825099167,0.0,ownYes,Missing,Travelers
+56 years,Female,64723.6017493344,0.0,ownYes,subNo,Travelers
+58 years,Male,86776.8179147849,0.0,ownYes,subNo,Travelers
+39 years,Female,77424.6476215087,0.0,ownYes,subNo,Travelers
+68 years,Female,51535.1139978854,0.0,ownNo,subNo,Travelers
+61 years,Male,72646.7373217843,0.0,ownYes,subNo,Travelers
+64 years,Male,50749.3893364359,0.0,Missing,subNo,Travelers
+51 years,Male,42467.3689239172,0.0,Missing,subYes,Travelers
+44 years,Male,51354.4811129986,0.0,ownYes,subNo,Travelers
+46 years,Male,77294.7603197207,0.0,ownYes,subNo,Travelers
+5 years,Female,62286.3155842483,0.0,ownYes,subNo,Travelers
+53 years,Male,60976.5295167416,0.0,ownYes,subNo,Travelers
+58 years,Male,79570.0474144247,0.0,ownYes,subYes,Travelers
+61 years,Female,,0.0,ownYes,subNo,Travelers
+63 years,Female,46587.2163266518,0.0,ownYes,subNo,Travelers
+65 years,Male,113456.797313926,0.0,ownNo,subNo,Travelers
+45 years,Male,63595.4751960642,,ownYes,subNo,Travelers
+59 years,Female,78870.6608287911,0.0,ownYes,subYes,Travelers
+51 years,Female,78019.7152233025,0.0,Missing,subNo,Travelers
+68 years,Female,69075.44941649,0.0,ownNo,subNo,Travelers
+66 years,Female,101173.557188013,0.0,ownYes,subNo,Missing
+61 years,Male,60930.7442493327,,ownYes,subNo,Travelers
+61 years,Male,62932.798574083,0.0,Missing,subNo,Travelers
+48 years,Female,92431.4551190837,0.0,ownYes,Missing,Travelers
+54 years,Male,45947.0295481575,0.0,ownYes,Missing,Travelers
+52 years,Female,68450.7529115724,0.0,ownNo,subNo,Travelers
+62 years,Female,82348.6867286271,0.0,ownYes,subNo,Travelers
+52 years,Male,49195.3690115638,0.0,ownYes,subNo,Travelers
+72 years,Female,60279.3325250966,0.0,ownYes,subYes,Travelers
+6 years,Male,36982.5615971805,0.0,ownYes,subNo,Travelers
+51 years,Female,71487.6242779881,0.0,Missing,subNo,Travelers
+61 years,Female,74776.771987831,0.0,ownNo,subNo,Travelers
+57 years,Male,37604.6674750923,0.0,ownNo,subYes,Travelers
+62 years,Female,29870.5387041544,0.0,ownYes,subNo,Travelers
+78 years,Female,24604.4294484988,0.0,ownYes,subNo,Travelers
+47 years,Male,64843.085262072,0.0,ownNo,subNo,Travelers
+8 years,Male,82076.8295368982,0.0,ownYes,subYes,Travelers
+57 years,Male,48402.1917850499,0.0,ownYes,subYes,Travelers
+59 years,Male,114278.255566571,0.0,ownYes,subNo,Travelers
+61 years,Male,96902.3924187072,0.0,ownYes,subNo,Travelers
+56 years,Female,,0.0,ownNo,subNo,Travelers
+55 years,Female,106430.048316245,0.0,ownYes,subNo,Travelers
+Missing,Female,72474.458355025,0.0,ownNo,subNo,Travelers
+66 years,Male,55406.740360499,0.0,ownNo,subNo,Travelers
+32 years,Female,50595.7769717461,2.0,ownYes,subNo,Missing
+38 years,Male,50980.484154139,5.0,ownYes,subNo,Moving up
+46 years,Female,40590.0810148982,3.0,ownNo,subNo,Moving up
+31 years,Male,52298.072708399,2.0,ownNo,subNo,Moving up
+34 years,Male,57663.8607966565,3.0,ownNo,subNo,Moving up
+36 years,Male,56977.085846303,2.0,ownYes,subNo,Moving up
+33 years,Female,36411.9826139095,0.0,ownNo,subNo,Moving up
+38 years,Male,46974.9879593612,3.0,ownYes,subNo,Moving up
+3 years,Male,65233.2556852536,2.0,ownNo,subNo,Missing
+Missing,Female,58739.3096685521,3.0,ownYes,subNo,Moving up
+33 years,Female,49509.4299256921,1.0,ownYes,Missing,Moving up
+34 years,Female,57037.8631865053,1.0,Missing,subYes,Moving up
+37 years,Female,53792.4010700851,0.0,Missing,subNo,Moving up
+39 years,Female,69947.6029486762,2.0,ownNo,subNo,Moving up
+39 years,Female,57265.3025841811,0.0,ownNo,subNo,Moving up
+39 years,Female,49895.1765115768,3.0,ownNo,subNo,Moving up
+Missing,Female,52953.4123866937,2.0,ownYes,subNo,Moving up
+31 years,Female,70541.4989272996,4.0,ownNo,subNo,Moving up
+43 years,Female,66923.6198185964,0.0,ownNo,subNo,Moving up
+34 years,Male,39678.9515958295,2.0,ownNo,subNo,Moving up
+41 years,Female,54864.7826513752,2.0,ownNo,subNo,Moving up
+35 years,Female,60045.4723554456,0.0,Missing,subNo,Moving up
+Missing,Male,68037.8090973437,4.0,ownNo,subNo,Moving up
+34 years,Female,73797.5015491713,0.0,ownNo,subNo,Moving up
+33 years,Female,53604.1711598316,3.0,ownNo,subNo,Moving up
+39 years,Male,52110.4581133447,1.0,ownNo,subYes,Missing
+43 years,Female,69549.9337075537,3.0,ownNo,subYes,Moving up
+31 years,Female,50473.3576363046,3.0,ownYes,subYes,Moving up
+34 years,Female,61154.5388123559,1.0,ownNo,subNo,Moving up
+32 years,Female,65688.5287018076,3.0,ownNo,subNo,Moving up
+39 years,Female,49267.0872846861,2.0,ownYes,subYes,Moving up
+29 years,Female,29771.9068621233,3.0,ownNo,subNo,Moving up
+36 years,Male,51829.6230346274,1.0,ownNo,subNo,Moving up
+34 years,Male,45637.0948677645,1.0,ownYes,subNo,Moving up
+39 years,Male,53668.8594730121,7.0,ownYes,subNo,Moving up
+32 years,Female,43413.7198741632,4.0,ownNo,subNo,Moving up
+36 years,Male,62087.1248390843,0.0,Missing,subNo,Moving up
+34 years,Female,49235.0166512053,2.0,ownNo,subNo,Moving up
+43 years,Male,39779.9939948701,0.0,ownYes,subNo,Moving up
+38 years,Female,41097.1037780155,2.0,ownNo,subNo,Moving up
+32 years,Female,52776.4212302428,,ownYes,subYes,Moving up
+42 years,Female,58756.3158402487,2.0,ownNo,subNo,Missing
+39 years,Female,44811.7813766437,5.0,ownYes,subNo,Moving up
+4 years,Female,44125.3993527206,4.0,ownYes,subNo,Moving up
+37 years,Female,36257.9280538758,1.0,ownNo,subNo,Moving up
+39 years,Female,45347.005384382,1.0,ownYes,subYes,Moving up
+3 years,Female,50720.2154168085,0.0,ownNo,subNo,Moving up
+36 years,Female,46540.8764153696,1.0,ownNo,subYes,Moving up
+37 years,Female,50560.1687025062,3.0,ownYes,subNo,Moving up
+37 years,Female,59663.2801912761,1.0,ownNo,subNo,Moving up
+32 years,Female,55940.7776290452,3.0,ownNo,subNo,Moving up
+34 years,Missing,66007.989411417,3.0,ownNo,subNo,Moving up
+37 years,Female,39366.9526872137,1.0,ownNo,subYes,Moving up
+38 years,Female,54509.2541701968,2.0,ownNo,subNo,Moving up
+42 years,Female,49308.974846061,2.0,ownNo,subNo,Moving up
+4 years,Female,54740.2792983515,0.0,ownYes,subNo,Moving up
+36 years,Male,49775.2882826454,1.0,Missing,subYes,Moving up
+36 years,Female,41766.2922383033,2.0,ownNo,subYes,Moving up
+26 years,Female,73240.6227870091,2.0,ownNo,subNo,Moving up
+42 years,Male,53520.3553277109,1.0,ownNo,subNo,Moving up
+36 years,Male,66423.7386259767,1.0,ownNo,subNo,Moving up
+36 years,Female,41192.2798590723,4.0,ownNo,subNo,Moving up
+4 years,Female,58933.3443268635,2.0,ownYes,subYes,Moving up
+36 years,Female,52352.6864610644,1.0,ownNo,subYes,Moving up
+36 years,Male,40522.3919785999,0.0,ownYes,subNo,Moving up
+33 years,Female,43882.4256144609,0.0,ownYes,subNo,Moving up
+41 years,Missing,64197.0868751401,2.0,ownNo,subNo,Moving up
+38 years,Male,47580.9267770138,0.0,ownNo,subYes,Moving up
+33 years,Male,60747.3363951277,1.0,ownNo,subNo,Moving up
+34 years,Male,53674.931370168,5.0,ownYes,subNo,Moving up
